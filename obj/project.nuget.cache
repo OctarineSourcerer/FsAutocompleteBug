@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSgnaT6Q0QyDiTAQtr/AT8rjMXa+CXJ+EIBjXZmajnjj1xCCJjUC8to7Drm5KdF/XtETKRcizCIjhN95KuP9Gw==",
+  "success": true,
+  "projectFilePath": "/home/dan/Projects/Flour Power/F#/FlourPower/FlourPower.fsproj",
+  "expectedPackageFiles": [
+    "/home/dan/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/dan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
